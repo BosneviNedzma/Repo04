@@ -3,7 +3,7 @@ function main(numOne, numTwo){
     var quotient;
     if(numTwo === 0){
         quotient = 'Divide by 0! Cannot divide by zero!';
-}else {
+    } else {
         // Only change code below this line
         var numOne; 
         var numTwo;
